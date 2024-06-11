@@ -4,4 +4,4 @@
 -----
 
 1. Protecting ChatGPT's GPTs' instructions - [link](https://github.com/0xeb/TheBigPromptLibrary/tree/main/Security/GPT-Protections)
-2. Machine Learning Operations: What You Need to Know Now - ClearML - [link](https://hiddenlayer.com/research/not-so-clear-how-mlops-solutions-can-muddy-the-waters-of-your-supply-chain/)
+2. Machine Learning Operations: What You Need to Know Now - abuse ClearML - [link](https://hiddenlayer.com/research/not-so-clear-how-mlops-solutions-can-muddy-the-waters-of-your-supply-chain/)
