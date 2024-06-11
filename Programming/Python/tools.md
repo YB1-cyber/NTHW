@@ -1,6 +1,6 @@
 # Not The Hidden Wiki
 
-## Learn Pythom
+## Learn Python
 -----
 
-It's empty here for now. Come back in a while and if you have links, let me know!
+1. Fickling - decompiler, static analyzer and bytecode rewriter for Python pickle object serializations. You can use fickling to detect, analyze, reverse engineer, or even create malicious pickle or pickle-based files, including PyTorch files - [link](https://github.com/trailofbits/fickling)
